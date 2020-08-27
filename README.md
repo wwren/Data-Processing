@@ -7,3 +7,11 @@
 - xml
 - etree
 - json
+#### Week 4
+- re pattern matching 
+  * re.search()
+  * re.sub()
+  * re.findall()
+- natural language processing
+  * stemming
+  * lemmatisation
